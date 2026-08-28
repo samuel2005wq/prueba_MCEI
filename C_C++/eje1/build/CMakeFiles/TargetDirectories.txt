@@ -1,0 +1,3 @@
+/home/sag/MCEI/C_C++/eje1/build/CMakeFiles/eje1.dir
+/home/sag/MCEI/C_C++/eje1/build/CMakeFiles/edit_cache.dir
+/home/sag/MCEI/C_C++/eje1/build/CMakeFiles/rebuild_cache.dir
